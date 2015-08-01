@@ -9,3 +9,4 @@ Write a __module__ that anyone can add to their project and call your module's f
 3. If the element has been retrieved before, then it should return the referenced element from your cache instead of querying the DOM directly again.
 4. Create a repo for your module and push to your GitHub account and please post your link in the class chatroom so that we can review.
 5. If you finish early, write a blog post on memoization and the benefits your module provides. Do research if you need to gather more information on the strategy.# Memoize-Me
+# Memoize-Me
